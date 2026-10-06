@@ -1,0 +1,4 @@
+Product;Toy Car;constructor;150;10
+Product;Teddy Bear;soft toy;200;5
+Customer;Ivan;ivan@example.com
+Customer;Anna;anna@example.com
